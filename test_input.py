@@ -11,7 +11,7 @@ type(float(max(numero_del_isuario3, numero_del_isuario2, numero_del_isuario1)))
 
 
 
-print("el numero mas grande es {}".format(resultado))
+print("el numero mas gradnde es {}".format(resultado))
 
 
 user_number = int(input("introduce un numero:"))
